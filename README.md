@@ -1,5 +1,5 @@
 # microbial-systems.github.io
 Website for the Miller Lab at the University of Colorado Denver
 
-<microbial.systems>
+<https://microbial.systems>
 
