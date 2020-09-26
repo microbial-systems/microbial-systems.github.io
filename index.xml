@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbial Systems Biology on Microbial Systems</title>
+    <link>https://microbial.systems/</link>
+    <description>Recent content in Microbial Systems Biology on Microbial Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 22:49:10 -0600</lastBuildDate><atom:link href="https://microbial.systems/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

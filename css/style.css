@@ -1,0 +1,27 @@
+.post-content p {
+    text-align: justify;
+}
+
+.inline-svg {
+  display: inline-block;
+  height: 1rem;
+  width: 1rem;
+  position: relative;
+}
+
+
+.pplpic {
+  float: right;
+}
+.pplpic img {
+  margin: 0.4em 0em 1em 1em;
+  height: 50%;
+}
+
+.students h3 {
+  margin: 0em;
+}
+
+.students h3 + p, .students .pplpic + p + p {
+  margin: 0em;
+}
