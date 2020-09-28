@@ -38,6 +38,76 @@
   </url>
   
   <url>
+    <loc>https://microbial.systems/lab-news/ef-2-pub/</loc>
+    <lastmod>2018-08-01T15:23:35-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/graduation-2018/</loc>
+    <lastmod>2018-05-12T16:27:42-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-natcom/</loc>
+    <lastmod>2017-11-16T16:32:56-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-iyer-grad/</loc>
+    <lastmod>2017-07-06T16:34:43-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-narrowe-award/</loc>
+    <lastmod>2017-05-21T16:38:42-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-dehay-grad/</loc>
+    <lastmod>2017-05-15T17:13:45-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-phd-bound/</loc>
+    <lastmod>2017-04-17T17:15:26-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2017-em-pub/</loc>
+    <lastmod>2017-02-20T17:16:51-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2016-narrowe-ddig/</loc>
+    <lastmod>2016-12-21T17:19:13-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2016-welcome-dehay/</loc>
+    <lastmod>2016-12-20T17:23:06-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://microbial.systems/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
