@@ -3,8 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://microbial.systems/lab-news/2021-welcome-lucia/</loc>
+    <lastmod>2021-01-11T12:09:03-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2020-phelps-urop/</loc>
+    <lastmod>2020-10-29T14:52:30-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://microbial.systems/lab-news/2020-medina-sacnas/</loc>
     <lastmod>2020-10-22T10:25:23-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2020-doe-annotation-grant/</loc>
+    <lastmod>2020-10-01T16:17:44-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -54,6 +75,13 @@
   <url>
     <loc>https://microbial.systems/lab-news/2020-racas/</loc>
     <lastmod>2020-05-11T20:09:33-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2020-urban-research-grant/</loc>
+    <lastmod>2020-01-11T11:11:26-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
