@@ -3,8 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://microbial.systems/lab-news/2024-cruz-ph-award/</loc>
+    <lastmod>2024-04-25T22:19:58-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://microbial.systems/lab-news/2023-lucia-defense/</loc>
     <lastmod>2023-11-02T22:04:07-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://microbial.systems/lab-news/2023-j.romero-defense/</loc>
+    <lastmod>2023-04-25T22:15:31-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
