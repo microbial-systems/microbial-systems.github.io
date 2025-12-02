@@ -4,7 +4,8 @@
     <title>Tags on Microbial Systems</title>
     <link>https://microbial.systems/tags/</link>
     <description>Recent content in Tags on Microbial Systems</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://microbial.systems/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://microbial.systems/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
