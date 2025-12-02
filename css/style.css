@@ -2,9 +2,9 @@
 
 /* Make the overall site-wide width of the centered column wider. */
 .measure-wide {
-  max-width: 70% !important;
+  max-width: 1200px !important;
 }
-
+ 
 /* Left justify instead of centered */
 article p {
   text-align: left;
