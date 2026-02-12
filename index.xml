@@ -6,8 +6,15 @@
     <description>Recent content in Microbial Systems Biology on Microbial Systems</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Sep 2025 11:40:12 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 05:30:16 -0700</lastBuildDate>
     <atom:link href="https://microbial.systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Publication on evaluating computational methods to infer protein function</title>
+      <link>https://microbial.systems/lab-news/2026-ec-bench-paper/</link>
+      <pubDate>Thu, 08 Jan 2026 05:30:16 -0700</pubDate>
+      <guid>https://microbial.systems/lab-news/2026-ec-bench-paper/</guid>
+      <description>&lt;p&gt;We have a new paper out that performs a detailed comparison of computational methods for inferring enzyme function.  This is collaborative work with Saeedeh Davoudi and Farnoush Banaei-Kashani in Computer Science at CU Denver, and also involved Chris Henry at Argonne National Lab.  There are so many methods out there to do these kinds of predictions of function, but little bioinformatics research that explores how to objectively evaluate the methods.   Read more in our &lt;em&gt;Bioinformatics Advances&lt;/em&gt; paper here: &lt;a href=&#34;https://doi.org/10.1093/bioadv/vbag004&#34;&gt;EC-Bench: a benchmark for enzyme commission number prediction&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Publication on 1,4-dioxane bioremediation at the Lowry Landfill</title>
       <link>https://microbial.systems/lab-news/2025-lowry-paper/</link>
@@ -20,7 +27,7 @@
       <link>https://microbial.systems/lab-news/2025-singleton-defense/</link>
       <pubDate>Fri, 18 Apr 2025 16:33:17 -0700</pubDate>
       <guid>https://microbial.systems/lab-news/2025-singleton-defense/</guid>
-      <description>&lt;p&gt;Congratulations to Derick, who defended his MS Thesis.  Derick used the &lt;a href=&#34;https://www.nature.com/articles/s41586-024-08240-z&#34;&gt;GROW river microbiome dataset&lt;/a&gt; to explore the distribution of antimicrobial resistance genes in US rivers.  Congratulations, Derick!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Congratulations to Derick, who defended his MS Thesis.  Derick used the GROW river microbiome dataset to explore the distribution of antimicrobial resistance genes in US rivers.  He was also a co-author on the &lt;a href=&#34;https://www.nature.com/articles/s41586-024-08240-z&#34;&gt;&lt;em&gt;Nature&lt;/em&gt; paper&lt;/a&gt; describing these U.S. river microbial communities.  Congratulations, Derick!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alyssa wins 2 undergraduate awards before starting PhD program</title>
