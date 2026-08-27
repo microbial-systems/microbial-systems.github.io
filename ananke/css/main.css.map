@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/chris/Library/CloudStorage/OneDrive-TheUniversityofColoradoDenver/microbial.systems website/microbial.systems.hugo",
+	"sourceRoot": "/Users/chris/OneDrive - The University of Colorado Denver/microbial.systems website/microbial.systems.hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
